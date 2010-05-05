@@ -3,23 +3,23 @@
 
 = EDONA/HMI Communications =
 
-=== 4 june 2009: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA Day 2009] ===
+==== 4 june 2009: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA Day 2009] ====
 
-=== SVG Open 2008 === 
+==== SVG Open 2008 ==== 
 
 *SVG for Automotive User Interfaces:*
   * article [http://www.svgopen.org/2008/papers/60-SVG_for_Automotive_User_Interfaces (html)]
   * presentation [http://www.svgopen.org/2008/presentations/60-SVG_for_Automotive_User_Interfaces/index.pdf (pdf)]
 
-=== 18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS === 
+==== 18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS ==== 
 
 *Automative User Interfaces* (in "Prototypage de Système Embarqués"):
   * abstract [http://www.slideshare.net/boisgera/prototypage-de-systmes-embarqus/download (pdf)]
   * presentation [http://www.slideshare.net/boisgera/automotive-user-interfaces (slideshare)]
 
-=== 6 may 2010: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA DAY 2010] ===
+==== 6 may 2010: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA DAY 2010] ====
 
-=== 19-21 may 2010: [http://www.erts2010.org/ ERTS^2] ===
+==== 19-21 may 2010: [http://www.erts2010.org/ ERTS^2] ====
 
 *EDONA/HMI – Modelling of Advanced Automotive Interfaces*:
   * abstract [http://www.slideshare.net/boisgera/summary-3977537/download (pdf)] 
