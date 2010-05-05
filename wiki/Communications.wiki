@@ -1,4 +1,5 @@
 #summary EDONA/HMI Communications
+#labels Featured
 
 = EDONA/HMI Communications =
 
