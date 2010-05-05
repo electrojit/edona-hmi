@@ -8,7 +8,7 @@
 
 *SVG for Automotive Interfaces*:
   * article [http://www.svgopen.org/2008/papers/60-SVG_for_Automotive_User_Interfaces (html)]
-  * presentation [http://www.svgopen.org/2008/presentation/60-SVG_for_Automotive_User_Interfaces/index.pdf (pdf)]
+  * presentation [http://www.svgopen.org/2008/presentations/60-SVG_for_Automotive_User_Interfaces/index.pdf (pdf)]
 
 === 18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS === 
 
