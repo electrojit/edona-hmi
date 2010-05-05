@@ -14,7 +14,7 @@
   * *18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS*
 
     Automative User Interfaces (in "Prototypage de Système Embarqués"):
-      * abstract [http://www.slideshare.net/boisgera/prototypage-de-systmes-embarqus/download (pdf)]
+      * abstract [http://www.slideshare.net/boisgera/prototypage-de-systmes-embarqus (slideshare)]
       * presentation [http://www.slideshare.net/boisgera/automotive-user-interfaces (slideshare)]
 
   * *6 may 2010: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA DAY 2010]*
