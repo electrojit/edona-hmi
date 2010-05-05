@@ -1,7 +1,7 @@
 #summary EDONA/HMI Communications
 #labels Featured
 
-= EDONA/HMI Communications =
+=== EDONA/HMI Communications ===
 
   * *4 june 2009: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA Day 2009]*
 
