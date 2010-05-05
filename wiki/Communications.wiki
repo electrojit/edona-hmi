@@ -6,14 +6,13 @@
 
 === SVG Open 2008 === 
 
-*SVG for Automotive User Interfaces*
+*SVG for Automotive User Interfaces:*
   * article [http://www.svgopen.org/2008/papers/60-SVG_for_Automotive_User_Interfaces (html)]
   * presentation [http://www.svgopen.org/2008/presentations/60-SVG_for_Automotive_User_Interfaces/index.pdf (pdf)]
 
 === 18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS === 
 
 *Automative User Interfaces* (in "Prototypage de Système Embarqués"):
-
   * abstract:
   * presentation [http://www.slideshare.net/boisgera/automotive-user-interfaces (slideshare)]
 
