@@ -22,5 +22,5 @@
 === 19-21 may 2010: [http://www.erts2010.org/ ERTS^2] ===
 
 *EDONA/HMI – Modelling of Advanced Automotive Interfaces*:
-  * abstract: 
+  * abstract [http://www.slideshare.net/boisgera/summary-3977537/download (pdf)] 
   * article: 
