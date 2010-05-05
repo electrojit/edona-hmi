@@ -3,7 +3,7 @@
 
 = EDONA/HMI Communications =
 
-=== EDONA Day ===
+=== 4 june 2009: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA Day 2009] ===
 
 === SVG Open 2008 === 
 
@@ -17,7 +17,7 @@
   * abstract [http://www.slideshare.net/boisgera/prototypage-de-systmes-embarqus/download (pdf)]
   * presentation [http://www.slideshare.net/boisgera/automotive-user-interfaces (slideshare)]
 
-=== 6 may 2010: [http://www.edona.fr EDONA DAY 2010] ===
+=== 6 may 2010: [http://www.edona.fr/scripts/home/publigen/content/templates/show.asp?P=127&L=FR&ITEMID=13 EDONA DAY 2010] ===
 
 === 19-21 may 2010: [http://www.erts2010.org/ ERTS^2] ===
 
