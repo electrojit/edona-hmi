@@ -2,25 +2,25 @@
 
 = EDONA/HMI Communications =
 
-== [EDONA Day] ==
+=== EDONA Day ===
 
-== SVG Open 2008 == 
+=== SVG Open 2008 === 
 
-SVG for Automotive Interfaces:
+*SVG for Automotive Interfaces*:
   * article [http://www.svgopen.org/2008/papers/60-SVG_for_Automotive_User_Interfaces (html)]
   * presentation [http://www.svgopen.org/2008/presentation/60-SVG_for_Automotive_User_Interfaces/index.pdf (pdf)]
 
-== CAOR 20th Anniversary, GdR MACS -- 18,19 nov 2009 == 
+=== 18,19 nov. 2009: CAOR 20th Anniversary and GdR MACS === 
 
-Prototypage de Système Embarqués:
+*Automative User Interfaces* (in "Prototypage de Système Embarqués"):
 
   * abstract:
-  * presentation: 
+  * presentation [http://www.slideshare.net/boisgera/automotive-user-interfaces (slideshare)]
 
-== [http://www.edona.fr] EDONA DAY 2010] -- 6 may 2010 ==
+=== 6 may 2010: [http://www.edona.fr EDONA DAY 2010] ===
 
-== [http://www.erts2010.org/ ERTS^2] -- 19-21 may 2010 ==
+=== 19-21 may 2010: [http://www.erts2010.org/ ERTS^2] ===
 
-EDONA/HMI – Modelling of Advanced Automotive Interfaces:
+*EDONA/HMI – Modelling of Advanced Automotive Interfaces*:
   * abstract: 
   * article: 
