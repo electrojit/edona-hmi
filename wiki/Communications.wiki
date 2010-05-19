@@ -24,3 +24,4 @@
     EDONA/HMI – Modelling of Advanced Automotive Interfaces:
       * abstract [http://www.slideshare.net/boisgera/summary-3977537/ (slideshare)] 
       * article [http://www.slideshare.net/boisgera/edonahmi-modelling-of-advanced-automotive-interfaces/ (slideshare)]
+      * presentation [http://www.slideshare.net/boisgera/edonahmi-modelling-of-advanced-automative-interfaces (slideshare)]
